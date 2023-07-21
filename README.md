@@ -1,8 +1,30 @@
-I AM: Arham Islam, a first year student at Carleton University in Bachelor of Computer Science
+<!-- Name -->
+<img src="https://github.com/arhamislam/arhamislam/assets/109931513/f6f782de-536a-4903-a657-8d5a118b3b27" alt="Arham Islam">
+<h1></h1>
 
-To get in contact with me, you can email me at arham.m.islam@gmail.com
+<!-- Who Am I -->
+<h3>Who Am I?:</h3>
+<ul>
+	<li>💻 Computer science student at Carleton University</li>
+</ul>
 
-Languages / Framworks: C, HTML/CSS, JS, PHP, SQL, Bootstrap
+<!-- Get In Touch -->
+<h3>Get In Touch:</h3>
+<ul>
+	<li>📧 Email: You can get in touch with me by sending an email to arham.m.islam@gmail.com.</li>
+</ul>
+
+<!-- Languages / Frameworks / Tools -->
+<h3>Languages / Frameworks / Tools:</h3>
+<ul>
+	<li>C</li>
+	<li>HTML/CSS</li>
+	<li>JS</li>
+	<li>PHP</li>
+	<li>SQL</li>
+	<li>Bootstrap</li>
+	<li>MySQL</li>
+</ul>
 
 <!--
 	arhamislam/arhamislam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
