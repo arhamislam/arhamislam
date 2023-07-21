@@ -11,7 +11,7 @@
 <!-- Get In Touch -->
 <h3>Get In Touch:</h3>
 <ul>
-	<li>📧 Email: You can get in touch with me by sending an email to arham.m.islam@gmail.com.</li>
+	<li>📧 Email: You can get in touch with me by sending an email to <a href="mailto:arham.m.islam@gmail.com">arham.m.islam@gmail.com</a></li>
 </ul>
 
 <!-- Languages / Frameworks / Tools -->
