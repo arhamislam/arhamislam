@@ -18,6 +18,7 @@
 <h3>Languages / Frameworks / Tools:</h3>
 <ul>
 	<li>C</li>
+	<li>Python</li>
 	<li>HTML/CSS</li>
 	<li>JS</li>
 	<li>PHP</li>
