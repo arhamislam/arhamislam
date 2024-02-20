@@ -20,6 +20,7 @@
 	<li>C</li>
 	<li>Python</li>
 	<li>HTML/CSS</li>
+	<li>Java</li>
 	<li>JS</li>
 	<li>PHP</li>
 	<li>SQL</li>
