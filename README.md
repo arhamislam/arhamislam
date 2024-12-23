@@ -25,6 +25,8 @@
 	<li>PHP</li>
 	<li>SQL</li>
 	<li>Bootstrap</li>
+	<li>Deno</li>
+	<li>Github Desktop</li>
 	<li>MySQL</li>
 </ul>
 
