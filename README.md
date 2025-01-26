@@ -15,9 +15,9 @@
 <!-- Get In Touch -->
 <h3>Get In Touch:</h3>
 <ul>
-	<li>📧 You can get in touch with me by sending an email to <a href="mailto:arham.m.islam@gmail.com">arham.m.islam@gmail.com</a></li>
-	<li>📄 </li>
-	<li>🌐 </li>
+	<li>📧 Feel free to reach out via email at <a href="mailto:arham.m.islam@gmail.com">arham.m.islam@gmail.com</a></li>
+	<li>📄 Please check out my resume <a href="">HERE</a></li>
+	<li>🌐 Connect with me on <a href="https://www.linkedin.com/in/arhamislam/">LinkedIn</a></li>
 </ul>
 
 <!-- Languages / Frameworks / Tools -->
