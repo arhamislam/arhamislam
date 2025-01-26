@@ -16,24 +16,8 @@
 <h3>Get In Touch!:</h3>
 <ul>
 	<li>📧 Feel free to reach out via email at <a href="mailto:arham.m.islam@gmail.com">arham.m.islam@gmail.com</a></li>
-	<li>📄 Please take a look at my resume <a href="">HERE</a></li>
+	<li>📄 Please take a look at my resume <a href="https://github.com/arhamislam/resume/blob/main/Arham_Islam_Resume.pdf">HERE</a></li>
 	<li>🌐 Connect with me on <a href="https://www.linkedin.com/in/arhamislam/">LinkedIn</a></li>
-</ul>
-
-<!-- Languages -->
-<h3>Languages / Frameworks / Tools:</h3>
-<ul>
-	<li>C</li>
-	<li>Python</li>
-	<li>HTML/CSS</li>
-	<li>Java</li>
-	<li>JS</li>
-	<li>PHP</li>
-	<li>SQL</li>
-	<li>Bootstrap</li>
-	<li>Deno</li>
-	<li>Github Desktop</li>
-	<li>MySQL</li>
 </ul>
 
 <!-- Languages -->
