@@ -16,7 +16,7 @@
 <h3>Get In Touch!:</h3>
 <ul>
 	<li>📧 Feel free to reach out via email at <a href="mailto:arham.m.islam@gmail.com">arham.m.islam@gmail.com</a></li>
-	<li>📄 Please take a look at my resume <a href="https://github.com/arhamislam/resume/blob/main/Arham_Islam_Resume.pdf">HERE</a></li>
+	<li>📄 Please take a look at my resume <a href="https://arhamislam.github.io/resume/Arham_Islam_Resume.pdf">HERE</a></li>
 	<li>🌐 Connect with me on <a href="https://www.linkedin.com/in/arhamislam/">LinkedIn</a></li>
 </ul>
 
@@ -42,11 +42,10 @@
 	<li>phpMyAdmin</li>
 	<li>VS Code</li>
 	<li>IntelliJ IDEA</li>
-	<li>Git</li>
+	<li>GitHub</li>
 </ul>
 
 <!--
 	arhamislam/arhamislam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 	You can click the Preview link to take a look at your changes.
 -->
-
