@@ -6,18 +6,18 @@
 <h3>Who Am I?:</h3>
 <ul>
 	<li>🎓 Second-year student at Carleton University</li>
-	<li>💻 Honours Bachelor of Computer Science</li>
-	<li>💼 Specialization in Management and Business Systems</li>
-	<li>🔍 Interested in web development and object-oriented programming</li>
-	<li>☺️ Happy to connect with others</li>
+	<li>💻 Pursuing an Honours Bachelor of Computer Science</li>
+	<li>💼 Specializing in Management and Business Systems</li>
+	<li>🔍 Passionate about web development and object-oriented programming</li>
+	<li>🤝 Always happy to connect with others</li>
 </ul>
 
 <!-- Get In Touch -->
 <h3>Get In Touch:</h3>
 <ul>
-	<li>📧 Email: You can get in touch with me by sending an email to <a href="mailto:arham.m.islam@gmail.com">arham.m.islam@gmail.com</a></li>
-	<li>LinkedIn: </li>
-	<li>Resume: </li>
+	<li>📧 You can get in touch with me by sending an email to <a href="mailto:arham.m.islam@gmail.com">arham.m.islam@gmail.com</a></li>
+	<li>📄 </li>
+	<li>🌐 </li>
 </ul>
 
 <!-- Languages / Frameworks / Tools -->
