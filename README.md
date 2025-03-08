@@ -16,8 +16,8 @@
 <h3>Get In Touch!:</h3>
 <ul>
 	<li>📧 Feel free to reach out via email at <a href="mailto:arham.m.islam@gmail.com">arham.m.islam@gmail.com</a></li>
-	<li>📄 Please take a look at my resume <a href="https://arhamislam.github.io/resume/Arham_Islam_Resume.pdf" target="_blank" rel="noopener noreferrer">HERE</a></li>
-	<li>🌐 Connect with me on <a href="https://www.linkedin.com/in/arhamislam/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+	<li>📄 Please take a look at my resume <a href="https://arhamislam.github.io/resume/Arham_Islam_Resume.pdf">HERE</a></li>
+	<li>🌐 Connect with me on <a href="https://www.linkedin.com/in/arhamislam/">LinkedIn</a></li>
 </ul>
 
 <!-- Languages -->
