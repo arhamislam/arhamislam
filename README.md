@@ -5,7 +5,7 @@
 <!-- Who Am I? -->
 <h3>Who Am I?:</h3>
 <ul>
-	<li>🎓 Second-year student at Carleton University</li>
+	<li>🎓 Third-year student at Carleton University</li>
 	<li>💻 Pursuing an Honours Bachelor of Computer Science</li>
 	<li>💼 Specializing in Management and Business Systems</li>
 	<li>🔍 Passionate about web development and object-oriented programming</li>
@@ -26,23 +26,29 @@
 	<li>Java</li>
 	<li>Python</li>
 	<li>C</li>
+	<li>C++</li>
 	<li>JavaScript</li>
+	<li>SQL</li>
 	<li>PHP</li>
 	<li>HTML/CSS</li>
-	<li>SQL</li>
 </ul>
 
-<!-- Frameworks / Tools -->
-<h3>Frameworks / Tools:</h3>
+<!-- Frameworks -->
+<h3>Frameworks:</h3>
 <ul>
+	<li>Node.js</li>
+	<li>Firebase</li>
 	<li>Bootstrap</li>
-	<li>AJAX</li>
-	<li>Deno</li>
+</ul>
+
+<!-- Tools -->
+<h3>Tools:</h3>
+<ul>
+	<li>GitHub</li>
+	<li>Visual Studio Code</li>
+	<li>IntelliJ IDEA</li>
 	<li>MySQL</li>
 	<li>phpMyAdmin</li>
-	<li>VS Code</li>
-	<li>IntelliJ IDEA</li>
-	<li>GitHub</li>
 </ul>
 
 <!--
